@@ -1,2 +1,2 @@
 # particle-burst
-Particle Burst is my first project on GitHub! It's a simple enough project. Just click the button for a burst of color in a random area of the screen.
+Particle Background is my first project on github, and it creates a cool effect in the background.
