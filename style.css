@@ -1,18 +1,14 @@
+body {
+  margin: 0;
+}
 #header {
-font-family: system-ui;
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 text-decoration: underline;
 position:absolute;
-top: 30%;
-text-align: center;
-}
-#btn {
-position: absolute;
-top: 40%;
-font-family: Verdana;
-border: none;
+top: 50%;
 color: white;
-background: none;
-transition: background 1s ease-in-out;
+left: 50%;
+transform: translate(-50%, -50%);
 }
 #canvas {
 background: black;
