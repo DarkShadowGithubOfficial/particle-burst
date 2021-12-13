@@ -41,6 +41,7 @@ function animate() {
     particles[i].draw();
     particles[i].update();
   }
+  currentHue++;
   requestAnimationFrame(animate);
 }
 animate();
